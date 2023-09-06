@@ -1,0 +1,304 @@
+#EXTM3U
+#EXTINF:-1,:AWTV online 24 horas 
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+#EXTINF:-1,:Xtreme TV online 24 horas 
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1,:TV Nova Play online 24 horas
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:-1,:TV Clássicos online 24 horas
+https://live01.livemustv.com.br/tv1716/tv1716/playlist.m3u8
+#EXTINF:-1,:Rede Brasil online 24 horas
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1,: Web TV Clássicos do Cinema online 24 hora
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
+#EXTINF:-1,:Canal 29 online 24 horas
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1,:GLN TV online 24 horas
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:-1,: LassTV online 24 horas
+https://tv02.zas.media:1936/lasstv/lasstv/playlist.m3u8
+#EXTINF:-1,:TV Mais Brasil online 24 horas 
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1,: Classique TV online 24 horas ~
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1,: Channel 1 online 24 
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
+#EXTINF:-1,: Cine TV Hits online 24 horas 
+https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
+#EXTINF:-1,:TV Cei online 24 horas
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/playlist.m3u8
+#EXTINF:-1,:TV 100 online 24 horas 
+https://serv3.videovox.pw/video78531/video78531/playlist.m3u8
+#EXTINF:-1,:TV Sonata online 24 horas 
+https://video01.kshost.com.br/tiago2001/tiago2001/playlist.m3u8
+#EXTINF:-1,:Central TV online 24 horas
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+#EXTINF:-1,:TV Clube Web online 24 horas
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1,:Web TV Água Boa online 24 horas
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:-1,:Canal BSTV online 24 horas 
+https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
+#EXTINF:-1,:TV Osório News online 24 hora
+https://serv2.videovox.pw/video13154/video13154/playlist.m3u8
+#EXTINF:-1,:TV Jornal do Nordeste online 24 horas
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8
+#EXTINF:-1,:ULB TV online 24 horas
+https://stmv1.paineltv.net/ulbtv/ulbtv/playlist.m3u8
+#EXTINF:-1,:TV J.SID online 24 horas 
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1,:TV Japi online 24 horas 
+https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1,:Gospel Movies Television online 24 horas
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1,:Lavras CE TV Web online 24 horas
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
+#EXTINF:-1,:TV Meu Xodô online 24 horas
+https://5d82644094cc0.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:-1,:Rede TV Mais online 24 horas
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
+#EXTINF:-1,:Nova Gazeta TV online 24 horas
+https://video01.kshost.com.br:4443/sueli3485/sueli3485/playlist.m3u8
+#EXTINF:-1,:TV Carioca Net online 24 horas 
+https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1,: Play TV online 24 horas 
+https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
+#EXTINF:-1,: TV Lagoa Dantas online 24 horas
+https://stmv3.webtvninjas.com.br/lucas3285/lucas3285/playlist.m3u8
+#EXTINF:-1,: TV MON online 24 horas
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1,: TV Confiego online 24 horas
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
+#EXTINF:-1,:TV Serra Verde online 24 horas 
+https://cdn.jmvstream.com/w/AVJ-13064/playlist/playlist.m3u8
+#EXTINF:-1,:TV Potengi online 24 horas
+https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w752124532.m3u8
+#EXTINF:-1,: Entorno Sul Web TV online 24 horas
+https://video01.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
+#EXTINF:-1,: Blits TV online 24 horas
+https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
+#EXTINF:-1,:TV Digital Birigui online 24 horas
+https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/chunklist_w2067248612.m3u8
+#EXTINF:-1,:TV Descalvado online 24 horas
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual09/_definst_/canalvirtual09/chunklist_w1150472665.m3u8
+#EXTINF:-1,:Jetsons TV online 24 horas 
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1972755087.m3u8
+#EXTINF:-1,:TV Gru Web online 24 horas
+https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w1021140636.m3u8
+#EXTINF:-1,:SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1,:TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1,:Classique Western TV 
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+#EXTINF:-1,:Moviesphere Brazil
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/playlist/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
+#EXTINF:-1,:Record TV online 24 horas
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1,:Rede TV!2 online 24 horas grátis
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1,:Record TV online 24 horas grátis
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+#EXTINF:-1,:Record TV3 online 24 horas grátis
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
+#EXTINF:-1,:TV Gazeta online 24 horas grátis
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1,:Web TV (BTV)
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1,:A Torre Eiffel é uma torre treliça de ferro do século XIX 
+https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-3330-6d61-63-bb4b-5df88851d8b7d/master.m3u8
+#EXTINF:-1,:Paris - River Seine
+https://deliverys6.quanteec.com/contents/encodings/live/c51d6b18-94cf-4476-3838-3330-6d61-63-ab88-8df2f1cd0327d/master.m3u8
+#EXTINF:-1,:Praia de Tramandaí
+https://vid1.streaming.websul.net.br/live/ods-tramandai.stream/playlist.m3u8
+#EXTINF:-1,:Ponte Internacional da Amizade
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
+#EXTINF:-1,:Praia de Imbé
+https://vid1.streaming.websul.net.br/live/ods-imb.stream/playlist.m3u8
+#EXTINF:-1,:Praia de Cidreira - RS
+https://5a2b083e9f360.streamlock.net/plataforma2/plataforma2.stream/playlist.m3u8
+#EXTINF:-1,:Goiânia - Panorâmica
+https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/playlist.m3u8
+#EXTINF:-1,:Brasília Asa Sul
+https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/playlist.m3u8
+#EXTINF:-1,:Umuarama - Praça Miguel Rossafa
+https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/playlist.m3u8
+#EXTINF:-1,:Caldas Novas - Praça do Privé 2
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/playlist.m3u8
+#EXTINF:-1,:Hog's Breath Saloon
+https://worldcams.tv/player?url=https://stream.resortcams.com/live-hogsbreath/smil:hogsbreath3.smil/playlist.m3u8
+#EXTINF:-1,:Schooners Hill Bar
+https://worldcams.tv/player?url=https://5ed7b8fd7bf40.streamlock.net:444/schoonersbarHDCam/schbar/playlist.m3u8
+#EXTINF:-1,:Sharky's Beachfront Restaurant (Panama City) Webcam
+https://worldcams.tv/player?url=https://5ed7b8fd7bf40.streamlock.net:444/sharkyssunset/sharkyssunsetcam/playlist.m3u8
+#EXTINF:-1,:Zoológico de San Diego: Webcam de Elefantes
+https://worldcams.tv/player?url=https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/playlist.m3u8
+#EXTINF:-1,:Zoológico de San Diego: Webcam de Macacos
+https://worldcams.tv/player?url=https://ape.hls.camzonecdn.com/CamzoneStreams/ape/playlist.m3u8
+#EXTINF:-1,:Zoológico de San Diego: Webcam dos Pandas
+https://worldcams.tv/player?url=https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/playlist.m3u8
+#EXTINF:-1,:Dead Dog Saloon (Murrells Inlet) Webcam
+https://worldcams.tv/player?url=https://5ed7b8fd7bf40.streamlock.net:444/DeadDogSaloonCam3/deaddog3/playlist.m3u8
+#EXTINF:-1,:Fish Tales Bar (Ocean City) Webcam
+https://worldcams.tv/player?url=https://livestream.fullcityservers.com/fishtales.live/bahiamarina.stream/playlist.m3u8
+#EXTINF:-1,:Seacrets Bar (Ocean City) Webcam
+https://worldcams.tv/player?url=https://5e721fc5b9a7e.streamlock.net/SunsetFeed/_definst_/SunsetFeed.stream/playlist.m3u8
+#EXTINF:-1,:PRAIA DE MATOSINHOS Hd
+https://59775c8bd0cf7.streamlock.net/live/matosinhos.stream/playlist.m3u8?wowzatokenendtime=1694027480&wowzatokenstarttime=1694027240&wowzatokenhash=Fhj8Lv0FdkZ2o6e0D52xwQ6nFQ_XgNQ3XJxafKI4MYs=
+#EXTINF:-1,:PRAIA DE LEÇA DA PALMEIRA (MAURITANIA GRILL) HD
+https://59775c8bd0cf7.streamlock.net/live/leca.stream/playlist.m3u8?wowzatokenendtime=1694028129&wowzatokenstarttime=1694027889&wowzatokenhash=66ugWAo49i3tuBD9ReV3PEQJWgt3x4CskeVFNNjfiRM=
+#EXTINF:-1,:PRAIA DE CABEDELO DO PORTO HD
+https://59775c8bd0cf7.streamlock.net/live/cabedeloporto.stream/playlist.m3u8?wowzatokenendtime=1694028228&wowzatokenstarttime=1694027988&wowzatokenhash=h_-PKa3vOUq94-K6r9gUueb-Sfia58g6Wde7AnSt_wE=
+#EXTINF:-1,:PRAIA DE ESPINHO - VISTA AÉREA HD
+https://59775c8bd0cf7.streamlock.net/live/casinoespinho.stream/playlist.m3u8?wowzatokenendtime=1694028362&wowzatokenstarttime=1694028122&wowzatokenhash=vkwpGG8nfks4pMU-OcpdUIK2O5Gt7PT12pkLaRr0KR0=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
